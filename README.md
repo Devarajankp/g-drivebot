@@ -21,7 +21,7 @@
 ## Deploying
 
 ### Deploy on [Heroku](https://heroku.com)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/viperadnan-git/google-drive-telegram-bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devarajankp/g-drivebot/tree/master)
 
 ### Installation
 - Install required modules.
@@ -30,7 +30,7 @@ apt install -y git python3 ffmpeg
 ```
 - Clone this git repository.
 ```sh 
-git clone https://github.com/viperadnan-git/google-drive-telegram-bot
+git clone https://github.com/devarajankp/g-drivebot
 ```
 - Change Directory
 ```sh 
